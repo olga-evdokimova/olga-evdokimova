@@ -1,16 +1,19 @@
-### Hi there 👋
+### Привет👋, Я Ольга
 
-<!--
-**olga-evdokimova/olga-evdokimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Верстаю сайты: лендинги, многостраничники, работаю из Москвы
 
-Here are some ideas to get you started:
+#### Портфолио:
+- [Productly](https://olga-evdokimova.github.io/Productly/)
+- [Lengold](https://olga-evdokimova.github.io/edited-lengold-org/)
+- [Cappadocia](https://olga-evdokimova.github.io/Cappadocia/)
+- [Tesla](https://olga-evdokimova.github.io/tesla-adaptive/)
+#### С чем работаю:
+HTML (HTML5), CSS (CSS3), jQuery, SASS, Flexbox, БЭМ.
+#### Что умею:
+- Адаптивная, кроссбраузерная верстка
+- Верстаю из PSD, Figma, Zeplin
+#### Как связаться:
+- email: pavedom13@gmail.com
+- telegram: [pavedom](https:///t.me/pavedom)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
