@@ -4,7 +4,7 @@
 
 #### Портфолио:
 - [To rent](https://olga-evdokimova.github.io/To-rent/.)
-- [Lengold](https://olga-evdokimova.github.io/edited-lengold-org/)
+- [ProEstate](https://olga-evdokimova.github.io/ProEstate/.)
 - [Cappadocia](https://olga-evdokimova.github.io/Cappadocia/)
 - [Tesla](https://olga-evdokimova.github.io/tesla-adaptive/)
 #### С чем работаю:
