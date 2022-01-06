@@ -8,7 +8,7 @@
 - [Cappadocia](https://olga-evdokimova.github.io/Cappadocia/)
 - [Tesla](https://olga-evdokimova.github.io/Tesla/)
 #### С чем работаю:
-HTML (HTML5), CSS (CSS3), jQuery, SASS, Flexbox, БЭМ ,Gulp.
+HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp.
 #### Что умею:
 - Адаптивная, кроссбраузерная верстка
 - Верстаю из PSD, Figma, Zeplin
