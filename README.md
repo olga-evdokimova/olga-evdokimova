@@ -4,7 +4,7 @@
 
 #### Портфолио:
 - Шаблон корпоративного блога, главная страница [смотреть...](https://olga-evdokimova.github.io/blog-company-01/)
-- Интернет-магазин электроники и бытовой технки [смотреть...](https://electronicashop.ru/) 
+- Интернет-магазин электроники и бытовой технки [смотреть...](https://electronicashop.ru/) с админкой на wordpress
 - Шаблон блога с админкой wordpress [смотреть...](https://ci00274.tmweb.ru/) 
 #### С чем работаю:
 HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp.
