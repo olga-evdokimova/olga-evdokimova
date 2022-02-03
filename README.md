@@ -7,6 +7,8 @@
 
 - Интернет-магазин электроники и бытовой технки с админкой на wordpress [смотреть...](https://electronicashop.ru/)
 - Шаблон блога с админкой wordpress [смотреть...](https://ci00274.tmweb.ru/) 
+
+-Шаблон корпоративного блога, главная страница [смотреть...](https://olga-evdokimova.github.io/corporate-blog/)
 #### С чем работаю:
 HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp.
 #### Что умею:
