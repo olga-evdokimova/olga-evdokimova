@@ -5,8 +5,8 @@
 #### Портфолио:
 - Корпоративный блог [главная страница >>](https://olga-evdokimova.github.io/template-blog/),    [страница отдельной записи >>](https://olga-evdokimova.github.io/template-blog/single.html)
 
-- Интернет-магазин электроники и бытовой технки с админкой на wordpress [смотреть...](https://electronicashop.ru/)
-- Шаблон блога с админкой wordpress [смотреть...](https://ci00274.tmweb.ru/) 
+- Интернет-магазин электроники и бытовой технки с админкой на wordpress [перейти на сайт >>](https://electronicashop.ru/)
+- Шаблон блога с админкой wordpress [перейти на сайт >>](https://ci00274.tmweb.ru/) 
 
 - Шаблон корпоративного блога,  [главная страница >>](https://olga-evdokimova.github.io/corporate-blog/)
 #### С чем работаю:
