@@ -3,7 +3,7 @@
 #### Верстаю сайты: лендинги, многостраничники, работаю из Москвы
 
 #### Портфолио:
-- Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/template-blog/),    [страница отдельной записи >](https://olga-evdokimova.github.io/template-blog/single.html)
+- Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/template-blog/)
 
 - Интернет-магазин электроники и бытовой технки с админкой на wordpress [перейти на сайт >](https://electronicashop.ru/)
 - Шаблон блога с админкой wordpress [перейти на сайт >](https://ci00274.tmweb.ru/) 
