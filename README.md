@@ -6,7 +6,7 @@
 - Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/blog-Corporate/)
 
 - Интернет-магазин электроники и бытовой технки с админкой на wordpress [перейти на сайт >](https://electronicashop.ru/)
-- Шаблон блога с админкой wordpress [перейти на сайт >](https://ci00274.tmweb.ru/) 
+- Шаблон блога с админкой wordpress [перейти на сайт >]() 
 рабочий функционал
 
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
