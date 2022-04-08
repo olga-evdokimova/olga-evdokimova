@@ -16,7 +16,7 @@
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
 
 #### С чем работаю:
-HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp, WordPress.
+HTML (HTML5), CSS (CSS3), SASS,JavaScript, Flexbox, БЭМ ,Gulp, WordPress.
 #### Что умею:
 - Адаптивная, кроссбраузерная верстка
 - Верстаю из PSD, Figma, Zeplin
