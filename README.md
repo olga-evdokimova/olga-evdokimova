@@ -4,13 +4,13 @@
 #### Pаботаю из Москвы.
 
 #### Портфолио:
-- Сайт-портфолио для плиточника   [перейти на сайт >](https://pavel.evdokimov.xyz/)
+- Сайт-портфолио для плиточника с CMS WordPress  [перейти на сайт >](https://pavel.evdokimov.xyz/)
 
 - Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/blog-Corporate/)
 
-- Интернет-магазин электроники и бытовой технки с админкой на wordpress [перейти на сайт >](https://electronicashop.ru/)
+- Интернет-магазин электроники и бытовой технки с CMS WordPress [перейти на сайт >](https://electronicashop.ru/)
 
-- Шаблон блога с админкой wordpress [перейти на сайт >](https://ci00274.tmweb.ru/) 
+- Шаблон блога с CMS WordPress [перейти на сайт >](https://ci00274.tmweb.ru/) 
 рабочий функционал
 
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
