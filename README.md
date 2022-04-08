@@ -3,6 +3,8 @@
 #### Верстаю сайты: лендинги, многостраничники, работаю из Москвы
 
 #### Портфолио:
+- Сайт-портфолио для плиточника ,  [перейти на сайт >](https://pavel.evdokimov.xyz/)
+- 
 - Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/blog-Corporate/)
 
 - Интернет-магазин электроники и бытовой технки с админкой на wordpress [перейти на сайт >](https://electronicashop.ru/)
@@ -11,7 +13,6 @@
 
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
 
-- Сайт-портфолио для плиточника ,  [перейти на сайт >](https://pavel.evdokimov.xyz/)
 
 #### С чем работаю:
 HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp, WordPress.
