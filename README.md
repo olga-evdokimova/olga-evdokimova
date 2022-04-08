@@ -10,13 +10,16 @@
 рабочий функционал
 
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
+
+- Сайт-портфолио для плиточника ,  [перейти на сайт >](https://pavel.evdokimov.xyz/)
+- 
 #### С чем работаю:
 HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp, WordPress.
 #### Что умею:
 - Адаптивная, кроссбраузерная верстка
 - Верстаю из PSD, Figma, Zeplin
 #### Как связаться:
-- email: pavedom13@gmail.com
+- email: pavedom@mail.ru
 - telegram: [pavedom](https:///t.me/pavedom)
 
 
