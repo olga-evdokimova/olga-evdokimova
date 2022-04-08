@@ -12,7 +12,7 @@
 - Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
 
 - Сайт-портфолио для плиточника ,  [перейти на сайт >](https://pavel.evdokimov.xyz/)
-- 
+
 #### С чем работаю:
 HTML (HTML5), CSS (CSS3), SASS, Flexbox, БЭМ ,Gulp, WordPress.
 #### Что умею:
