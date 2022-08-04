@@ -23,5 +23,5 @@ HTML (HTML5), CSS (CSS3), SASS,JavaScript, Flexbox, БЭМ ,Gulp, WordPress.
 #### Как связаться:
 - email: pavedom@mail.ru
 - telegram: [pavedom](https:///t.me/pavedom)
-- TenChat (https://tenchat.ru/olga_developer?utm_source=17942794-ee25-4d18-944f-0d2ab648ed9e)
+- TenChat [olga_developer](https://tenchat.ru/olga_developer?utm_source=17942794-ee25-4d18-944f-0d2ab648ed9e)
 
