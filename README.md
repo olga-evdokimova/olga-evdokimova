@@ -22,6 +22,6 @@ HTML (HTML5), CSS (CSS3), SASS,JavaScript, Flexbox, БЭМ ,Gulp, WordPress.
 - Верстаю из PSD, Figma, Zeplin
 #### Как связаться:
 - email: pavedom@mail.ru
-- telegram: [pavedom](https:///t.me/pavedom)
+- telegram: [pavedom](https://t.me/olga_developer)
 - TenChat [olga_developer](https://tenchat.ru/olga_developer?utm_source=17942794-ee25-4d18-944f-0d2ab648ed9e)
 
