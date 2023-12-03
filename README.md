@@ -33,5 +33,5 @@ CMS WordPress
 #### Как связаться:
 - email: pavedom@mail.ru
 - telegram: https://t.me/olga_evdokimova13
-- TenChat [https://tenchat.ru/olga_evdokimova]
+- TenChat (https://tenchat.ru/olga_evdokimova)
 
