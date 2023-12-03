@@ -32,6 +32,6 @@ CMS WordPress
 Верстаю из Photoshop, Figma
 #### Как связаться:
 - email: pavedom@mail.ru
-- telegram: [pavedom]([https://t.me/olga_evdokimova](https://t.me/olga_evdokimova13))
-- TenChat [olga_evdokimova](https://tenchat.ru/olga_evdokimova)https://tenchat.ru/olga_evdokimova)
+- telegram: [https://t.me/olga_evdokimova13]
+- TenChat [https://tenchat.ru/olga_evdokimova]
 
