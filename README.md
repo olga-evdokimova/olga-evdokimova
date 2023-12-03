@@ -9,10 +9,9 @@
 - Сайт портфолио для плиточника. Управление контентом CMS WordPress [перейти на сайт >](https://pavel.evdokimov.xyz/)
 - Доработка готового сайта на теме WordPress. Подключение платежной системы  [перейти на сайт >](https://khachkar.com/)
 - Итернет-магазин электронной техники. Управление контентом CMS WordPress [перейти на сайт >](https://electronicashop.ru/)
-- Шаблон блога с CMS WordPress [перейти на сайт >](https://ci00274.tmweb.ru/)
-- Корпоративный блог [главная страница >](https://olga-evdokimova.github.io/blog-Corporate/)
-рабочий функционал
-- Шаблон пресс-центра ,  [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
+- Шаблон для персонального блога. Управление контентом CMS WordPress [перейти на сайт >](https://ci00274.tmweb.ru/)
+- Шаблон главной страницы корпоративного блогаг [главная страница >](https://olga-evdokimova.github.io/blog-Corporate/)
+- Шаблон главной страницы пресс-центра [главная страница >](https://olga-evdokimova.github.io/blog-Press/)
 
 #### Что умею:
 - Верстка дизайн-макета сайта целиком или отдельных элементов сайта.
